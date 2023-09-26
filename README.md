@@ -1,0 +1,1 @@
+rails new bookstore --api  -d postgresql
